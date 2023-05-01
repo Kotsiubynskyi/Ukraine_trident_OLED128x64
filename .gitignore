@@ -1,1 +1,4 @@
 ./build
+build/esp32.esp32.esp32/ssd1306_128x64_i2c.ino.bin
+build/esp32.esp32.esp32/ssd1306_128x64_i2c.ino.elf
+build/esp32.esp32.esp32/ssd1306_128x64_i2c.ino.partitions.bin
